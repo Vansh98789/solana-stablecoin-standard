@@ -1,4 +1,3 @@
-First time submitting to bounty-->
 
 Function implemented-->
 1) initialize the coin
